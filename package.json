@@ -1,5 +1,5 @@
 {
-    "name": "dnd-stylelint-less",
+    "name": "@agence-dnd/stylelint-less",
     "version": "1.0.5",
     "description": "A collection of Less specific rules for stylelint",
     "babel": {
@@ -28,7 +28,7 @@
         "babel-preset-jest": "^25.5.0"
     },
     "author": {
-        "name": "Sivantarajan",
+        "name": "Safran",
         "url": "https://github.com/Dnd-Safran/stylelint-less"
     },
     "bugs": {
