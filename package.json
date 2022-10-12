@@ -10,7 +10,8 @@
     "main": "lib/index.js",
     "scripts": {
         "prebuild": "rimraf lib",
-        "build": "babel src --out-dir lib"
+        "build": "babel src --out-dir lib",
+        "test": "echo no test specified"
     },
     "dependencies": {
         "postcss": "^8.4.14",
