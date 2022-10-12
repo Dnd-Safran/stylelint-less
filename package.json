@@ -48,5 +48,8 @@
         "stylelint-plugin",
         "css",
         "less"
-    ]
+    ],
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com/"
+    }
 }
