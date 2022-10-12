@@ -1,5 +1,5 @@
 {
-    "name": "dnd-stylelint-less",
+    "name": "@agence-dnd/stylelint-less",
     "version": "1.0.5",
     "description": "A collection of Less specific rules for stylelint",
     "babel": {
@@ -29,15 +29,15 @@
     },
     "author": {
         "name": "Sivantarajan",
-        "url": "https://github.com/ssivanatarajan/"
+        "url": "https://github.com/Dnd-Safran/stylelint-less"
     },
     "bugs": {
-        "url": "https://github.com/ssivanatarajan/stylelint-less/issues"
+        "url": "https://github.com/Dnd-Safran/stylelint-less/issues"
     },
-    "homepage": "https://github.com/ssivanatarajan/stylelint-less#readme",
+    "homepage": "https://github.com/Dnd-Safran/stylelint-less#readme",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/ssivanatarajan/stylelint-less.git"
+        "url": "git+https://github.com/Dnd-Safran/stylelint-less.git"
     },
     "license": "MIT",
     "env": {
